@@ -17,3 +17,6 @@ function holidayCountdown(days, holiday) {
 function holidayCountdown(days, holiday) {
   return(`It\'s ${days} until ${holiday}!`);
 }
+function holidayCountdown(holiday, days) {
+  return(`It\'s ${days} until ${holiday}!`);
+}
